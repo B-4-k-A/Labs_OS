@@ -11,7 +11,7 @@ do
 done
 
 echo "Sleeping for 1 minute"
-sleep 5
+sleep 60
 echo "Completed"
 
 while read line 
