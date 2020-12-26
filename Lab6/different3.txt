@@ -1,0 +1,19 @@
+Comparing files firstScan.txt and SECONDSCAN.TXT
+***** firstScan.txt
+
+   Background Intelligent Transfer Service
+***** SECONDSCAN.TXT
+
+   Application Experience
+   Background Intelligent Transfer Service
+*****
+
+***** firstScan.txt
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Resource Publication
+***** SECONDSCAN.TXT
+   Distributed Link Tracking Client
+   Function Discovery Resource Publication
+*****
+

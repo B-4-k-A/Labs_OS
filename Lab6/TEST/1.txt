@@ -1,0 +1,6 @@
+mkdir C:\Lab6 
+1.bat
+mkdir TEST && copy . TEST && cd TEST
+copy Disk.txt+FreeMemory.txt+OSVersion.txt+UsedMemory.txt FullInfo.txt
+del Dist.txt FreeMemory.txt OSVersion.txt UsedMemory.txt
+
