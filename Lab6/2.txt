@@ -4,6 +4,6 @@ schtasks /Create /SC once /TN Task2 /TR 2.bat /ST 17:09
 schtasks /Query | find "Task2"
 tasklist
 taskkill /IM 2.bat
-fc C:\Windows\explorer.exe C:\%computername%\temp\explorer.exe > different.txt
+fc C:\Windows\*.* C:\%computername%\temp\*.* > different.txt
 type diffrent.txt
 2.bat
